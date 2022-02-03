@@ -73,6 +73,8 @@ img{
   background-color: #4b4e6d28;
   height: 13em;
   box-shadow: 2px 3px 4px 5px rgba(0, 0, 0, 0.192);
+  margin: 50px 0;
+
 }
 
 .card:nth-child(2) > *{
@@ -101,7 +103,7 @@ li a{
   }
 
   .card:nth-child(2){
-    height: 12em;
+    height: 10em;
   }
 
   .container{
@@ -116,7 +118,7 @@ li a{
   }
 
   .card > p, a {
-    padding: 2.3em 0.7em;
+    padding: 2em 0.7em;
   }
 
   img{
@@ -128,7 +130,7 @@ li a{
   }
 
   .card:nth-child(2){
-    height: 10em;
+    height: 8em;
   }
 
   .container{
@@ -136,7 +138,7 @@ li a{
   }
 
   p{
-    font-size: 1.1em;
+    font-size: 0.9em;
   }
 }
 
@@ -150,19 +152,19 @@ li a{
   }
 
   p{
-    font-size: 1.1em;
+    font-size: 0.9em;
   }
 
   .container{
-    width: 70%;
+    width: 75%;
   }
 
   img{
-    width: 7em;
+    width: 6em;
   }
 
   .card:first-child{
-    height: 31em;
+    height: 25em;
   }
 
   .card:nth-child(2){
